@@ -1,6 +1,5 @@
-
 var apikey = {
-    key: process.env.API_KEY
+    key: "7cdce86c-85af-4dfa-8a6b-a9de93dbf666"
 }
 
 fetch('https://pro-api.coinmarketcap.com/v1/cryptocurrency/map?CMC_PRO_API_KEY=' +
